@@ -1,2 +1,2 @@
 # jasperReports
-jasperReports
+本项目基于springboot整合了jasperReport,可以快速按照要求生成pdf文件.后期若遇到生成pdf相关业务,可以仿照这个项目.
